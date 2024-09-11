@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning front-end development
 
-- 📫 How to reach me :linkedin
+- 📫 How to reach me :linkedin(https://www.linkedin.com/in/abdul-harish-khan/)
 
 
 <!---
