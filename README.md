@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full Stack Devlopment
 
 - **Languages:** JavaScript, Java, C++
-- **Frontend:** React, HTML, CSS, Bootstrap
+- **Frontend:** React, HTML, CSS, Bootstrap, Tailwind
 - **Backend:** Node.js, Express, 
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, Docker, VSCode
