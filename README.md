@@ -1,4 +1,4 @@
-![github banner](https://github.com/user-attachments/assets/62b20e39-7a71-4ddb-9c10-524b72965660)
+
 - 👋 Hi, I’m Harish Khan
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Full Stack Devlopment
