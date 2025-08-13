@@ -1,16 +1,5 @@
 # Hi there, I'm Harish Khan! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+🚀;Always+learning+new+things+💡;Building+amazing+projects+✨" alt="Typing SVG" />
-  
-  <!-- Hero image from Unsplash (coding on a laptop) -->
-  <img src="https://images.unsplash.com/photo-1542831371-d531d36971e6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=60"
-       alt="Laptop with code on screen"
-       style="max-width: 100%; margin-top: 12px; border-radius: 12px;" />
-</div>
-
-
-
 ## 🚀 About Me
 
 I'm a passionate **Full Stack Developer** who loves turning ideas into reality through code. Currently on an exciting journey of mastering modern web technologies and building impactful applications.
