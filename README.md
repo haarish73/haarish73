@@ -106,15 +106,42 @@ const currentGoals = {
   <img src="https://github-profile-trophy.vercel.app/?username=haarish73&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
-## 🌟 Featured Projects
+🌟 Featured Projects
+📈 Zerodha Clone — Full-Stack Trading Platform
+javascriptTech Stack: React.js • Node.js • Express • MongoDB • Chart.js • Recharts • MUI
 
-<!-- Add your best projects here -->
-🚧 **Coming Soon!** - Currently working on some exciting full-stack projects that showcase modern web development practices, including:
+🏦 Dynamic Trading Dashboard with real-time portfolio visualization
+📊 Interactive Charts using Chart.js & Recharts for market data analysis
+🔐 Secure Authentication implemented with Passport.js and Bcrypt.js
+📱 Responsive SPA built with React Router and Material-UI components
+🔧 RESTful API Integration with reusable component architecture
 
-- 🔐 **Secure Authentication System** with JWT & OAuth
-- 🛒 **E-commerce Platform** with real-time inventory
-- 📊 **Data Analytics Dashboard** with interactive visualizations
-- 🌐 **Distributed Microservices** architecture
+🏨 BookMyStay – Hotel Booking Web App
+javascriptTech Stack: EJS • Node.js • Express • MongoDB • Bootstrap • Passport.js
+
+🎨 Responsive UI Design crafted with Bootstrap for seamless user experience
+🔍 Smart Filtering System with location and price-based hotel search
+👤 User Authentication and session management via Passport.js
+💾 Robust CRUD Operations for hotel management and booking system
+🛡️ Clean UX Design focused on intuitive booking workflow
+
+🎓 GradGuru App — Personalized Learning Platform
+javascriptTech Stack: React (TypeScript) • Tailwind CSS • Node.js • Express • MongoDB • Bcrypt
+
+🗺️ Personalized Learning Roadmaps with achievement tracking system
+💬 Real-time Chat Integration for domain-specific collaboration
+🔒 Secure Authentication with Bcrypt and dynamic profile management
+📄 Resume Generation functionality from user profile data
+⚡ Type-Safe Development using TypeScript for enhanced code quality
+
+
+🚀 Project Highlights
+
+Full-Stack Architecture across all projects with modern tech stacks
+Authentication & Security implementation in every application
+Real-time Features including chat systems and live data visualization
+Responsive Design ensuring cross-platform compatibility
+Clean Code Practices with reusable components and modular architecture
 
 ## 📈 Coding Activity
 
