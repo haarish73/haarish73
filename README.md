@@ -103,6 +103,8 @@ const currentGoals = {
 </div>
 
 🌟 Featured Projects
+
+
 📈 Zerodha Clone — Full-Stack Trading Platform
 javascriptTech Stack: React.js • Node.js • Express • MongoDB • Chart.js • Recharts • MUI
 
