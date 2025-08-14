@@ -8,7 +8,7 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into reality t
 - 🌱 Always learning and exploring new technologies
 - 💡 Love solving complex problems with elegant solutions
 - 🎯 Goal: To create applications that make a difference
-- 🌐 **Portfolio:** [Abdul Harish Khan - Full Stack Developer](your-portfolio-link-here)
+- 🌐 **Portfolio:** [Abdul Harish Khan - Full Stack Developer](https://haarishkhan.netlify.app/)
 
 ## 🛠️ Tech Stack & Skills
 
