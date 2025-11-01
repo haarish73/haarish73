@@ -105,33 +105,37 @@ const currentGoals = {
 🌟 Featured Projects
 
 
-📈 Zerodha Clone — Full-Stack Trading Platform
-javascriptTech Stack: React.js • Node.js • Express • MongoDB • Chart.js • Recharts • MUI
+Zerodha Clone — Full-Stack Trading Platform (haarish73/ZerodhaClone-Full-stack-Project)
+    Technologies: Node.js, Express.js, MongoDB, React, REST APIs
+•	Developed using React.js, Node.js, Express, MongoDB for dynamic trading dashboard.
+•	Integrated Chart.js & Recharts for real-time portfolio graphs.
+•	Utilized React Router for seamless navigation and Material UI (MUI) for designing a responsive, single-page application (SPA) interface with a modern and consistent user experience.
+•	Implemented authentication with Passport.js and Bcrypt.js.
+•	Focused on reusable components and RESTful API integration.
 
-🏦 Dynamic Trading Dashboard with real-time portfolio visualization
-📊 Interactive Charts using Chart.js & Recharts for market data analysis
-🔐 Secure Authentication implemented with Passport.js and Bcrypt.js
-📱 Responsive SPA built with React Router and Material-UI components
-🔧 RESTful API Integration with reusable component architecture
+BookMyStay – Hotel Booking Web App
+       Technologies: Node.js, Express.js, MongoDB, Ejs, Html, CSS, JavaScript, REST APIs
+•	Responsive UI built with Bootstrap, server-side logic using EJS + Node.js + Express.
+•	Used MongoDB for hotel records with location & price filters.
+•	Integrated user authentication & session management via Passport.js.
+•	Implemented robust CRUD operations and clean UX for seamless booking.
+•	Configured Nodemailer for automated booking confirmation and user email notifications.
 
-🏨 BookMyStay – Hotel Booking Web App
-javascriptTech Stack: EJS • Node.js • Express • MongoDB • Bootstrap • Passport.js
+Project Enrollment & Allocation System (haarish73/Project-Enrollment-and-Allocation-System)
+    Technologies: Node.js, Express.js, MongoDB, React, Socket.io, REST APIs
+•	Built a web-based system to streamline project applications, enrollment, and group allocations for students.
+•	Implemented real-time application submission & status tracking with dynamic updates on dashboards.
+•	Designed admin panel for project approvals, batch & role auto-assignment, and group allocations.
+•	Integrated notification system for application acceptance/rejection and meeting reminders. 
+•	Developed a dashboard interface to display project status, batch/role details, and allocation history.
+•	Improved project management efficiency by automating manual allocation workflows.
 
-🎨 Responsive UI Design crafted with Bootstrap for seamless user experience
-🔍 Smart Filtering System with location and price-based hotel search
-👤 User Authentication and session management via Passport.js
-💾 Robust CRUD Operations for hotel management and booking system
-🛡️ Clean UX Design focused on intuitive booking workflow
-
-🎓 GradGuru App — Personalized Learning Platform
-javascriptTech Stack: React (TypeScript) • Tailwind CSS • Node.js • Express • MongoDB • Bcrypt
-
-🗺️ Personalized Learning Roadmaps with achievement tracking system
-💬 Real-time Chat Integration for domain-specific collaboration
-🔒 Secure Authentication with Bcrypt and dynamic profile management
-📄 Resume Generation functionality from user profile data
-⚡ Type-Safe Development using TypeScript for enhanced code quality
-
+Madarsa Management Website — Freelance Project  (Madrasa Majeediya - Islamic Education Excellence)
+     Technologies: React, Html, CSS, Bootstrap
+•	Designed and developed a responsive front-end web application for a Madrasa to manage students, teachers, and classes.
+•	Built dynamic and reusable React components with TypeScript for efficient state management and scalability.
+•	Implemented a clean and intuitive user interface using Tailwind CSS for smooth user interaction.
+•	Delivered the project as a freelance developer, ensuring client requirements, responsiveness, and performance standards.
 
 🚀 Project Highlights
 
