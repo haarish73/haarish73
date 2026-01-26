@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | MERN Stack Specialist | Cloud Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;500%2B+Users+Served;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;10%2B+Users+Served;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/abdul-harish-khan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
