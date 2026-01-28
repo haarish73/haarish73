@@ -2,7 +2,7 @@
 
 # 👨‍💻 Abdul Harish Khan
 
-### Full-Stack Developer | MERN Stack Specialist | Cloud Enthusiast
+### Full-Stack Developer | MERN Stack Specialist
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;10%2B+Users+Served;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
