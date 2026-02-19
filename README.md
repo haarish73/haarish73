@@ -77,7 +77,8 @@ const abdulHarish = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=haarish73&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![GitHub Trophies](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=haarish73&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
 
 </div>
 
