@@ -56,11 +56,12 @@ const abdulHarish = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haarish73&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=haarish73&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haarish73&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haarish73&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haarish73&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
 
 </div>
 
