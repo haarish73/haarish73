@@ -73,13 +73,14 @@ const abdulHarish = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=haarish73&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://github-readme-stats.vercel.app/api?username=haarish73&show_icons=true&theme=tokyonight" height="180"/>
 
 </div>
+
 
 
 ---
