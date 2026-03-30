@@ -11,6 +11,7 @@
   <a href="mailto:khan.abdulhaarish@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/haarish73"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/harishkhan9"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/haarish_khan94/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=haarish73&color=blueviolet&style=flat-square&label=Profile+Views)
@@ -254,6 +255,7 @@ gantt
 ### 🏆 Achievements
 - 🥈 **Finalist** - BOSCH x Tinkerers' Lab Hackathon, IIT Hyderabad (Top 17 of 200+ teams)
 - 💻 **CodeChef Profile:** [harishkhan9](https://www.codechef.com/users/harishkhan9)
+- 🧩 **LeetCode Profile:** [haarish_khan94](https://leetcode.com/u/haarish_khan94/)
 
 </div>
 
@@ -267,6 +269,7 @@ gantt
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khan.abdulhaarish@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haarish73)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Follow-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harishkhan9)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/haarish_khan94/)
 
 ### 💡 Open for opportunities in Full-Stack Development roles!
 
