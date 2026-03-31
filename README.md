@@ -11,6 +11,7 @@
   <a href="mailto:khan.abdulhaarish@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/haarish73"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/harishkhan9"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/haarish_khan94/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=haarish73&color=blueviolet&style=flat-square&label=Profile+Views)
