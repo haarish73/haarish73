@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Abdul Harish Khan
+# Abdul Harish Khan
 
 ### Full-Stack Developer | MERN Stack Specialist
 
