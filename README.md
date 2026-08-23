@@ -224,6 +224,12 @@ gantt
 - 🔐 Implemented authentication & authorization, including login and access control workflows
 - 🧩 Translated UI designs into functional frontend components from project specs
 
+**Software Developer Intern** @ **Devbox Software Pvt. Ltd.** | *May 2026 - July 2026*
+- 🅰️ Built dynamic, responsive web applications using **Angular**
+- 🔗 Integrated and consumed REST APIs within frontend applications
+- 🔐 Implemented authentication & authorization, including login and access control workflows
+- 🧩 Translated UI designs into functional frontend components from project specs
+
 **Freelance Full-Stack Developer** @ **Social Crafts Circle** | *Jan 2026 - Present*
 - 🎨 Delivered custom platform with 3D animations in **1 week**
 - 📱 Optimized performance to maintain **60fps** on mobile
