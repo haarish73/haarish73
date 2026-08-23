@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👨‍💻 Abdul Harish Khan
+# Abdul Harish Khan
 
-### Full-Stack Developer | MERN Stack Specialist
+### Full Stack Developer | React, Angular, Node.js, Express, MySQL
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;10%2B+Users+Served;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;500%2B+Users+Served;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/abdul-harish-khan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -27,25 +27,28 @@ const abdulHarish = {
     location: "Hyderabad, India",
     education: "BTech CSE @ CMR Engineering College",
     graduationYear: 2026,
-    cgpa: 8.26,
-    currentRole: "Freelance Full-Stack Developer",
-    previousRole: "Software Developer Intern @ BlackBucks Groups",
-    
+    cgpa: 8.22,
+    currentRole: "Software Developer Intern @ Devbox Software Pvt. Ltd.",
+    previousRoles: [
+        "Freelance Full-Stack Developer @ Social Crafts Circle",
+        "Software Developer Intern @ BlackBucks Groups"
+    ],
+
     expertise: {
-        frontend: ["React.js", "TypeScript", "Tailwind CSS", "Bootstrap"],
+        frontend: ["React.js", "Angular", "TypeScript", "Tailwind CSS", "Bootstrap"],
         backend: ["Node.js", "Express.js", "RESTful APIs", "Socket.io"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Microsoft SQL Server"],
         cloud: ["AWS", "Netlify", "Docker"],
         testing: ["Jest", "Unit Testing", "Integration Testing"]
     },
-    
+
     achievements: [
-        "Built apps serving 500+ concurrent users",
-        "Reduced API response time by 30%",
+        "Built apps serving 500+ concurrent users with 99.5% uptime",
+        "Reduced API response time by 30% (800ms → 560ms)",
         "IIT Hyderabad Hackathon Finalist (Top 17/200+)",
-        "85% code coverage with automated testing"
+        "85% code coverage with 50+ automated Jest tests"
     ],
-    
+
     currentlyLearning: ["System Design", "Microservices", "Cloud Architecture"],
     funFact: "I can optimize your database queries faster than you can say MongoDB! 🚀"
 };
@@ -56,33 +59,20 @@ const abdulHarish = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=haarish73&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haarish73&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haarish73&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-
 </div>
 
 <div align="center">
-  
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haarish73&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)
 
 </div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=haarish73&show_icons=true&theme=tokyonight" height="180"/>
-
-</div>
-
-
 
 ---
 
@@ -99,6 +89,7 @@ const abdulHarish = {
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -113,6 +104,7 @@ const abdulHarish = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -146,20 +138,20 @@ const abdulHarish = {
 <td width="50%">
 
 ### 🏦 Zerodha Clone - Trading Platform
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/haarish73)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/haarish73/ZerodhaClone-Full-stack-Project)
 
 **Tech Stack:** React.js • Node.js • MongoDB • Chart.js
 
 - 25+ modular React components
 - Real-time financial charts with 5-sec updates
-- JWT authentication with Passport.js
+- JWT authentication with Passport.js & bcrypt
 - 45% faster queries via MongoDB optimization
 
 </td>
 <td width="50%">
 
-### 📚 Project Enrollment System
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/haarish73)
+### 📚 Project Enrollment & Allocation System
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/haarish73/Project-Enrollment-and-Allocation-System)
 
 **Tech Stack:** React.js • Node.js • MongoDB • Socket.io
 
@@ -179,7 +171,7 @@ const abdulHarish = {
 
 **Tech Stack:** Node.js • Express.js • MongoDB • EJS
 
-- Full CRUD for 5 entities
+- Full CRUD across 5 entities
 - 98% email delivery rate (Nodemailer)
 - Modular Express Router architecture
 - Booking confirmations & cancellations
@@ -213,17 +205,30 @@ gantt
     title Career Timeline
     dateFormat YYYY-MM
     section Education
-    BTech CSE @ CMR College    :2022-06, 2026-06
+    BTech CSE @ CMR College        :2022-10, 2026-04
     section Experience
-    BlackBucks Groups Intern   :2025-03, 2025-10
-    Freelance Developer        :2026-01, 2026-02
+    BlackBucks Groups Intern       :2025-03, 2025-10
+    Freelance @ Social Crafts      :2026-01, 2026-02
+    Devbox Software Intern         :2026-05, 2026-07
     section Achievements
-    IIT Hyderabad Hackathon    :milestone, 2024-09, 0d
-    AWS Certification          :milestone, 2023-07, 0d
-    MERN Stack Certification   :milestone, 2025-10, 0d
+    IIT Hyderabad Hackathon        :milestone, 2024-09, 0d
+    AWS Certifications             :milestone, 2023-07, 0d
+    MERN Stack Certification       :milestone, 2025-10, 0d
 ```
 
 ### 👨‍💻 Experience Highlights
+
+**Software Developer Intern** @ **Devbox Software Pvt. Ltd.** | *May 2026 - July 2026*
+- 🅰️ Built dynamic, responsive web applications using **Angular**
+- 🔗 Integrated and consumed REST APIs within frontend applications
+- 🔐 Implemented authentication & authorization, including login and access control workflows
+- 🧩 Translated UI designs into functional frontend components from project specs
+
+**Freelance Full-Stack Developer** @ **Social Crafts Circle** | *Jan 2026 - Present*
+- 🎨 Delivered custom platform with 3D animations in **1 week**
+- 📱 Optimized performance to maintain **60fps** on mobile
+- 🌐 Deployed on Netlify with SSL & custom domain
+- ⭐ Maintained **100% client satisfaction**
 
 **Software Developer Intern** @ **BlackBucks Groups** | *Mar 2025 - Oct 2025*
 - ⚡ Engineered 2 production apps serving **500+ concurrent users** with **99.5% uptime**
@@ -232,11 +237,9 @@ gantt
 - ✅ Achieved **85% code coverage** with 50+ Jest unit tests
 - 📉 Reduced production defects by **35%**
 
-**Freelance Full-Stack Developer** @ **Social Crafts Circle** | *Jan 2026 - Present*
-- 🎨 Delivered custom platform with 3D animations in **1 week**
-- 📱 Optimized performance to maintain **60fps** on mobile
-- 🌐 Deployed on Netlify with SSL & custom domain
-- ⭐ Maintained **100% client satisfaction**
+**Open Source Contributor** | *Ongoing*
+- 🌱 Contributed to **5+ open-source repositories** — bug fixes, feature enhancements, API improvements, documentation
+- 🔀 Worked with collaborative Git workflows: branching, pull requests, issue tracking, peer reviews
 
 ---
 
@@ -273,8 +276,8 @@ gantt
 
 ### 💡 Open for opportunities in Full-Stack Development roles!
 
-**📍 Location:** Hyderabad, India  
-**🎓 Graduating:** June 2026  
+**📍 Location:** Hyderabad, India
+**🎓 Graduating:** April 2026
 **💼 Available for:** Full-time roles, Internships, Freelance projects
 
 </div>
